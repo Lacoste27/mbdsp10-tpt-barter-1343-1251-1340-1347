@@ -65,4 +65,4 @@ Après avoir configuré le backend et les clients, vous pouvez commencer à util
 
 ### 📱 Télécharger les Applications
 - Android: [Télécharger apk](#)
-- Windows: [Télécharger le client Windows](#)
+- Windows: [Télécharger le client Windows](https://github.com/Lacoste27/mbdsp10-tpt-barter-1343-1251-1340-1347/releases/download/v1.1.0/barter-01.zip)
