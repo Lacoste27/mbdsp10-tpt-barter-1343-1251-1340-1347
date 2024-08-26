@@ -1,79 +1,65 @@
-# Mbdsp10-tpt-barter-1343-1251-1340-1347 Site troc
-Ce projet est une plateforme web permettant aux particuliers d'échanger des objets dont ils n'ont plus besoin avec d'autres utilisateurs. L'objectif est de promouvoir le troc entre personnes pour encourager la réutilisation des objets et réduire les déchets.
+# 🌐 Plateforme d'échange
 
-🌐 Plateforme d'Échange
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Angular](https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=red&textColor=red)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
-📋 Table des Matières
+Bienvenue sur la Plateforme d'échange, une application polyvalente conçue pour faciliter divers types d'échanges sur différentes plateformes. Le projet comprend des clients pour Angular, IOS, Android, et Windows.
+## 🤝 Membres 
+- [1343]()
+- [1251]()
+- [1340]()
+- [1347]()
 
-    À Propos du Projet
-    Technologies Utilisées
-    Fonctionnalités
-    Installation
-    Utilisation
-    Téléchargements et Liens
-    Contribuer
-    Licence
-    Contact
+## 📋 Table des Matières
 
-🔍 À Propos du Projet
+- [A propos du projet](#-à-propos-du-projet)
+- [Technologies Utilisées](#️-technologies-utilisées) 
+- [Fonctionnalité](#-fonctionnalités) 
+- [Installation](#️-installation) 
+- [Utilisation](#-utilisation)
+- [Téléchargements et Liens](#-téléchargements-et-liens)
+
+
+## 🔍 À Propos du Projet
 
 La Plateforme d'Échange est une application multi-clients qui permet aux utilisateurs de réaliser des échanges sur plusieurs plateformes. L'application est conçue pour offrir une intégration fluide sur les environnements web, mobile, et desktop.
-🛠️ Technologies Utilisées
 
-    Backend: Node.js, Express, Prisma, SignalR
-    Frontend (Web): Angular
-    Clients Mobiles:
-        iOS: Swift, UIKit
-        Android: Kotlin, Jetpack Compose
-    Client Desktop: Windows (WPF, WinForms)
+## 🛠️ Technologies Utilisées
 
-🚀 Fonctionnalités
+- Backend: Node.js, Express, Prisma
+- Frontend (Web): Angular
+- Clients Mobiles:
+    - iOS: Ionic
+    - Android: Java
+- Client Desktop: Windows (C#, WinForms)
+- BackOffice : spring web
 
-    Fonctionnalité d'échange multiplateforme
-    Mises à jour en temps réel avec SignalR
-    Authentification et autorisation des utilisateurs
-    Client web réactif construit avec Angular
-    Clients mobiles natifs pour iOS et Android
-    Client desktop Windows avec une interface utilisateur riche
 
-⚙️ Installation
+## ⚙️ Installation
 
 Chaque composant du projet est hébergé dans des dépôts séparés. Veuillez consulter les instructions spécifiques dans les README respectifs des dépôts suivants :
-Backend
+- Backend (Node js): [Node](https://github.com/ace34TT/mbds-10-tpt-barter-backend)
+- Frontend (Angular) : [Angular](https://github.com/ETU1340/mbdsp10-tpt-barter-frontend-Angular)
+- Client Mobile iOS : [IOS](https://github.com/ace34TT/mbds-10-tpt-barter-mobile-ios)
+- Client Mobile Android : [Android](https://github.com/Lacoste27/mbdsp10-tpt-barter-mobile-android)
+- Client Desktop Windows : [Winforms](https://github.com/Lacoste27/mbdsp10-tpt-barter-winforms)
+- Backoffice : [Backoffice](https://github.com/890Tom/mbdsp10-tpt-barter-spring-web)
 
-Voir le dépôt Backend
-Frontend (Angular)
-
-Voir le dépôt Frontend Angular
-Client Mobile iOS
-
-Voir le dépôt iOS
-Client Mobile Android
-
-Voir le dépôt Android
-Client Desktop Windows
-
-Voir le dépôt Windows
-💻 Utilisation
+## 💻 Utilisation
 
 Après avoir configuré le backend et les clients, vous pouvez commencer à utiliser la plateforme en créant un compte et en explorant les fonctionnalités d'échange.
-🔗 Téléchargements et Liens
-🌐 Applications en Ligne
 
-    Application Web: Accéder à l'application Angular
-    Version iOS: Disponible sur l'App Store
+## 🔗 Téléchargements et Liens
 
-📱 Télécharger les Applications
+### 🌐 Applications en Ligne
+- Application Web: [Lien Frontoffice](#)
+- Backoffice : [Lien Backoffice](#)
 
-    Android: Télécharger depuis Google Play
-    Windows: Télécharger le Client Windows
-
-🤝 Contribuer
-
-Les contributions sont les bienvenues ! Veuillez forker le dépôt et créer une pull request avec vos modifications.
-📄 Licence
-
-Ce projet est sous licence MIT.
-📧 Contact
-
-Pour toute question, veuillez contacter [votre-email@example.com].
+### 📱 Télécharger les Applications
+- Android: [Télécharger apk](#)
+- Windows: [Télécharger le client Windows](#)
