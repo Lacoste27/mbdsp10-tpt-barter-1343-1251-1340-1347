@@ -32,6 +32,8 @@ La Plateforme d'Échange est une application multi-clients qui permet aux utilis
 
 ## 📄 Documentation
 - Maquette figma [Barter maquette](https://www.figma.com/design/dQIqXs9hjdUJ6KAt1sQKwS/Barter?node-id=0-1&t=y0f7QH5NUctCLExZ-0)
+- Cahier des charges [Barter cdc](https://docs.google.com/document/d/1vmFbXtUXQnAPCcxVdL2BSP0HK43FUkJOwYA6BOxjmvM/edit?usp=sharing)
+- Documentation [Barter doc](https://docs.google.com/document/d/1k-6ty-HGWfKNRh-Gq7UGbRAWHXOFnq13ROYtAgM41_4/edit?usp=sharing)
 
 ## 🛠️ Technologies Utilisées
 
