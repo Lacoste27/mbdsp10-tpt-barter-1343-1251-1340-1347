@@ -57,7 +57,7 @@ Après avoir configuré le backend et les clients, vous pouvez commencer à util
 ## 🔗 Téléchargements et Liens
 
 ### 🌐 Applications en Ligne
-- Application Web: [Lien Frontoffice](#)
+- Application Web: [Lien Frontoffice](https://tpt-barter-app.netlify.app)
 - Backoffice : [Lien Backoffice](#)
 
 ### 📱 Télécharger les Applications
