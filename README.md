@@ -8,12 +8,13 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
-Bienvenue sur la Plateforme d'échange, une application polyvalente conçue pour faciliter divers types d'échanges sur différentes plateformes. Le projet comprend des clients pour Angular, IOS, Android, et Windows.
+Développement d'une application de site d'échange, destinée à faciliter les échanges d’objets entre particuliers. L'objectif est de créer une plateforme intuitive, sécurisée et efficace, intégrant des fonctionnalités avancées de recherche, de communication et de sécurité pour offrir une expérience utilisateur optimale
+
 ## 🤝 Membres 
-- [1343]()
-- [1251]()
-- [1340]()
-- [1347]()
+- [1343 - Robsona Tsiory Andriantsoa](https://github.com/Lacoste27)
+- [1251 - Rabenandrasana Tafinasoa](https://github.com/ace34TT)
+- [1340 - Valimabavaka Nomena Finoana](https://github.com/ETU1340)
+- [1347 - Zafitsiarendrika Tommy](https://github.com/890Tom)
 
 ## 📋 Table des Matières
 
@@ -64,5 +65,5 @@ Après avoir configuré le backend et les clients, vous pouvez commencer à util
 - Backoffice : [Lien Backoffice](https://mbdsp10-tpt-barter-spring-web.onrender.com/login)
 
 ### 📱 Télécharger les Applications
-- Android: [Télécharger apk](#)
+- Android: [Télécharger apk](https://github.com/Lacoste27/mbdsp10-tpt-barter-1343-1251-1340-1347/releases/download/v1.1.0/barter.apk)
 - Windows: [Télécharger le client Windows](https://github.com/Lacoste27/mbdsp10-tpt-barter-1343-1251-1340-1347/releases/download/v1.1.0/barter-01.zip)
