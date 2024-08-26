@@ -29,6 +29,9 @@ Bienvenue sur la Plateforme d'échange, une application polyvalente conçue pour
 
 La Plateforme d'Échange est une application multi-clients qui permet aux utilisateurs de réaliser des échanges sur plusieurs plateformes. L'application est conçue pour offrir une intégration fluide sur les environnements web, mobile, et desktop.
 
+## 📄 Documentation
+- Maquette figma [Barter maquette](https://www.figma.com/design/dQIqXs9hjdUJ6KAt1sQKwS/Barter?node-id=0-1&t=y0f7QH5NUctCLExZ-0)
+
 ## 🛠️ Technologies Utilisées
 
 - Backend: Node.js, Express, Prisma
