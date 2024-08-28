@@ -18,12 +18,17 @@ Développement d'une application de site d'échange, destinée à faciliter les 
 
 ## 📋 Table des Matières
 
-- [A propos du projet](#-à-propos-du-projet)
-- [Technologies Utilisées](#️-technologies-utilisées) 
-- [Fonctionnalité](#-fonctionnalités) 
-- [Installation](#️-installation) 
-- [Utilisation](#-utilisation)
-- [Téléchargements et Liens](#-téléchargements-et-liens)
+- [🌐 Plateforme d'échange](#-plateforme-déchange)
+  - [🤝 Membres](#-membres)
+  - [📋 Table des Matières](#-table-des-matières)
+  - [🔍 À Propos du Projet](#-à-propos-du-projet)
+  - [📄 Documentation](#-documentation)
+  - [🛠️ Technologies Utilisées](#️-technologies-utilisées)
+  - [⚙️ Installation](#️-installation)
+  - [💻 Utilisation](#-utilisation)
+  - [🔗 Téléchargements et Liens](#-téléchargements-et-liens)
+    - [🌐 Applications en Ligne](#-applications-en-ligne)
+    - [📱 Télécharger les Applications](#-télécharger-les-applications)
 
 
 ## 🔍 À Propos du Projet
@@ -34,6 +39,7 @@ La Plateforme d'Échange est une application multi-clients qui permet aux utilis
 - Maquette figma [Barter maquette](https://www.figma.com/design/dQIqXs9hjdUJ6KAt1sQKwS/Barter?node-id=0-1&t=y0f7QH5NUctCLExZ-0)
 - Cahier des charges [Barter cdc](https://docs.google.com/document/d/1vmFbXtUXQnAPCcxVdL2BSP0HK43FUkJOwYA6BOxjmvM/edit?usp=sharing)
 - Documentation [Barter doc](https://docs.google.com/document/d/1k-6ty-HGWfKNRh-Gq7UGbRAWHXOFnq13ROYtAgM41_4/edit?usp=sharing)
+- Timesheet [Barter timesheet](https://docs.google.com/spreadsheets/d/1QfvtaItGqCBcc1b4mHAopf5MCN-vyji3qm8cdAlWKpE/edit?usp=sharing)
 
 ## 🛠️ Technologies Utilisées
 
